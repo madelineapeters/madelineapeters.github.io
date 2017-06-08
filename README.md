@@ -34,5 +34,4 @@ _April 2017, at the University of Toronto_
 
 Extending Wright's isolation-by-distance into the temporal dimension
 
-
-# Other links
+![](https://duffylab.files.wordpress.com/2014/04/universityoftoronto.png?w=720&h=150)
