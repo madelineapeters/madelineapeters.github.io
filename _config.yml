@@ -1,3 +1,5 @@
 theme: jekyll-theme-dinky
 title: Welcome!
 description: A cluster of evolution, ecology, math and computer science at the University of Toronto
+gems:
+  - jekyll-sitemap
