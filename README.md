@@ -1,12 +1,12 @@
 
 # About me
-*Coming :soon:!*
+*Coming soon!*
 
 # My research
-*Also coming :soon:!*
+*Also coming soon!*
 
 # CV
-## Education :mortar_board:
+## Education 
 **University of Toronto, Hon. BSc.** _September 2013 - June 2017_
 
 Ecology and Evolutionary Biology, Specialist
@@ -15,7 +15,7 @@ Ecology and Evolutionary Biology, Specialist
 
 Evolutionary epidemiology, theoretical biology
 
-## Research :bulb:
+## Research 
 ### Weis Lab, University of Toronto, _August 2015 - August 2017_
 
 **Research courses:** EEB395 (2015-2016), EEB498 (2016-2017);
@@ -23,7 +23,7 @@ Evolutionary epidemiology, theoretical biology
 
 My work in the Weis Lab has focused on theoretical population genetics. Using a combination of mathematical and computational approaches, my projects investigate the maintenance of genetic variation in pollen competitive ability in mixed-mating systems as well as the interplay of _isolation-by-distance_ and _isolation-by-time_ in flowering plant populations. My work has been done primarily in R, with some reliance on Visual Basic and Mathematica.
 
-## Communication :loudspeaker:
+## Communication
 ### Ontario Ecology, Ethology and Evolution Colloquium
 _May 2016, at the University of Toronto_
 
