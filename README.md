@@ -3,7 +3,7 @@
 *Coming soon!*
 
 # My research
-*Also coming soon!*
+To learn more about what I am currently working on, head on over to http://github.com/madelineapeters/IBD_IBT_simulation
 
 # CV
 ## Education 
