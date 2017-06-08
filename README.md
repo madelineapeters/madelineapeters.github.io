@@ -7,14 +7,16 @@
 # CV
 ## Education
 **University of Toronto, Hon. BSc.** _September 2013 - June 2017_
+
 Ecology and Evolutionary Biology, Specialist
 
 **University of Toronto, PhD** _starting September 2017_
+
 Evolutionary epidemiology, theoretical biology
 
 ## Research
-### Weis Lab, University of Toronto
-_August 2015 - August 2017_
+### Weis Lab, University of Toronto, _August 2015 - August 2017_
+
 **Research courses:** EEB395 (2015-2016), EEB498 (2016-2017)
 **Funded projects:** NSERC-USRA (2016), UTEA (2017)
 
