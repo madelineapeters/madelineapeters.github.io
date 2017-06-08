@@ -2,10 +2,16 @@
 layout: default
 title: Projects
 ---
-	<h1>{{ page.title }}</h1>
-	<ul class="posts">
-
-	  {% for post in site.projects %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
-	  {% endfor %}
-	</ul>
+<h1>{{ page.title }}</h1>
+	Check back here for updates about ongoing research projects.
+	<br>
+	For project code and associated wikis, check out <a href="www.github.com/madelineapeters"> my Github </a>.
+<hr>
+<h2>Isolation-by-distance x isolation-by-time simulation</h2>
+<p>Previous work by Hendry and Day (2005) modelled isolation-by-time (IBT) for an asexual population and considered two traits: reproductive time and body size, a trait they consider to have variable fitness along a temporal cline. While their work is a foundation to our own, their results reflect weak selection and perfect heritability for body size, which, coupled with asexual reproduction, have limited application to real-life population dynamics. To expand upon their investigation, we are modelling a sexually reproducing flowering plant population that can be manipulated for a number of parameters related to IBT and isolation-by-distance (IBD). With this model, we hope to answer:</p>
+<br>
+<ol>
+	<li>Does IBT between early and late flowering plants amplify temporal genetic structure for the flowering time trait by building linkage disequilibrium among alleles with similar phenotypic effect, i.e., if a plant has an ‘early’ allele at one flowering time locus, is it more likely than by chance to have ‘early’ alleles at the other flowering time loci?</li>
+	<li>Does the temporal genetic structure for flowering time interact with limited pollen and seed dispersal to create spatial population genetic structure for flowering time, i.e., over time, do early and late plants cluster over the landscape more tightly than by chance?<li>
+	<li>Does the temporal genetic structure amplify linkage disequilibrium among neutral loci and alter the impact of genetic drift?<li>
+</ol>
